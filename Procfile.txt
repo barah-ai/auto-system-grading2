@@ -1,2 +1,1 @@
-web: gunicorn app:app
 buildpacks: https://github.com/heroku/heroku-buildpack-python.git
